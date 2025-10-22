@@ -1,4 +1,3 @@
-```markdown
 # Контрольная работа №1 (пункты 11, 14, 50)
 **Дисциплина:** Информационная безопасность и защита информации  
 **Студент:** Куспеков Сергей Дмитриевич, группа УИБО-02-24  
@@ -80,4 +79,4 @@
 - **MEDSI/SmartMed (официальные страницы):** описание КДЦ на Красной Пресне; вход/возможности SmartMed; онлайн-оплата и возможности приложения. :contentReference[oaicite:28]{index=28}  
 - **OWASP:** SQL Injection Prevention Cheat Sheet; OWASP SQL Injection; XXE Prevention Cheat Sheet; XXE (обзор); OWASP Risk Rating. :contentReference[oaicite:29]{index=29}  
 - **NIST:** SP 800-34 Rev.1 (Contingency Planning Guide / BIA). :contentReference[oaicite:30]{index=30}
-```
+
